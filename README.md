@@ -29,6 +29,12 @@ Load font-awesome and popline theme:
 <link rel="stylesheet" type="text/css" href="../css/default.css" />
 ```
 
+Add a editable div to page:
+
+```html
+<div class='editor' contenteditable='true'></div>
+```
+
 Initialize you popline for you editor:
 
 ```js

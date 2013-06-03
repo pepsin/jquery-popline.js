@@ -1,7 +1,7 @@
 jquery-popline.js
 ============
 
-jQuery-popline.js is a HTML5 Rich-Text-Editor toolbar. Popline is inspired from popclip. Compared to traditional RTE, popline will around they mouse when you select text.
+jQuery-popline.js is a HTML5 Rich-Text-Editor toolbar. Popline is inspired by Popclip. Compared to traditional RTE, popline will around they mouse when you select text.
 
 ## Usage
 
